@@ -16,9 +16,9 @@ services:
         sync: false
       - key: BOT_OWNER
         sync: false
-      - key: DATABASE_URI
+      - key: DATABASE_URL
         sync: false 
-      - key: LAZY_PIC
+      - key: OTHER_USERS_CAN_SAVE_FILE
         sync: false
       - key: LOG_CHANNEL
         sync: false    
